@@ -1,4 +1,4 @@
-## Hi There 👋, I'm Adwait
+## Hi 👋, I'm Adwait
 - 👨‍💻 I'm a Technical Consultant at [@salesforce](https://www.salesforce.com/in).
 - 🔭 I’m currently working on Salesforce Platform and its various technologies such as LWC, Apex. 
 - 🌱 I’m like to read and know about Salesforce and JavaScript related stuff.
